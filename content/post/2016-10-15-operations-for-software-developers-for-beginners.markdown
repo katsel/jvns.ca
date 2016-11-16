@@ -55,7 +55,7 @@ be up 99.9% of the time", they're like "yep, that is a normal problem I have wor
 These people sometimes have the job title "operations engineer" or "SRE" or "devops engineer" or "software engineer" or "system administrator". Like all things, it's a skillset that you can learn, not a magical innate quality.
 
 Charity is one of these people! That blog post ("[The Accidental
-DBA](https://charity.wtf/2016/10/02/the-accidental-dba/)")) I linked to before has a bunch
+DBA](https://charity.wtf/2016/10/02/the-accidental-dba/)") I linked to before has a bunch
 of extremely practical advice about how to upgrade a database safely. If you're running a
 database and you're scared -- you're right! But you can learn about how to upgrade it from
 someone like Charity and then it will go a lot better.
